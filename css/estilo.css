@@ -3,8 +3,8 @@
 body {
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
     background: url('../img/bg.jpg') no-repeat center center fixed;
-    background-size: contain;
-    /*-webkit-background-size: cover;
+    /*background-size: contain;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover; */
 }
