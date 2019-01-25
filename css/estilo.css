@@ -3,10 +3,10 @@
 body {
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
     background: url('../img/bg.jpg') no-repeat center center fixed;
-    /*background-size: contain;
+    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover; */
+    -o-background-size: cover;
 }
 
 
@@ -166,7 +166,7 @@ body {
     }
 
     footer {
-        background-color: antiquewhite;
+        /*background-color: antiquewhite;*/
         padding: 10px;
         padding-bottom: 10px;
         font-size: 16px;
