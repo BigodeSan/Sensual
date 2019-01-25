@@ -3,11 +3,12 @@
 body {
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
     background: url('../img/bg.jpg') no-repeat center center fixed;
-    background-size: cover;
+    background-size: auto;
     /*-webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover; */
 }
+
 
 .brand {
     display: none;
@@ -185,6 +186,5 @@ body {
     .somos {
         text-align: center;
     }
-    
     
 }
