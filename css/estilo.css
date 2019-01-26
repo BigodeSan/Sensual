@@ -2,7 +2,14 @@
 
 body {
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
-    background: url('../img/bg.jpg') no-repeat fixed;
+    
+    background: url('../img/bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    
+    /*background: url('../img/bg.jpg') no-repeat fixed;
     
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -34,9 +41,9 @@ body {
 }
 
 .box {
-    margin-left: 5px;
+    /*margin-left: 5px;
     margin-right: 5px;
-    margin-bottom: 10px;
+    */margin-bottom: 10px;
     padding: 10px 10px;
     background: #fff;
     background: rgba(255,255,255,0.9);
