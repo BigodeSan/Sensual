@@ -2,7 +2,7 @@
 
 body {
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
-    background: url('../img/bg_teste.jpg') no-repeat center center fixed;
+    background: url('../img/bg.jpg') no-repeat center center fixed;
     
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -77,19 +77,8 @@ body {
 }
 
 
-@media screen and (min-width:768px) {
-    
-    body {
-    font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
-    background: url('../img/bg.jpg') no-repeat center center fixed;
-    
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    /*height: 100%;*/
-    }   
-    
+@media screen and (min-width:768px) { 
+
     .brand {
         display: inherit;
         margin: 0;
