@@ -4,7 +4,7 @@ body {
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
     
     background-image: url('../img/bg.jpg');
-    /*height: 700px;*/
+    height: 700px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
