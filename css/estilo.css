@@ -19,6 +19,10 @@ body {
     background-color: yellow;
 }
 
+.page-header{
+    border-bottom: 1px solid #808080;
+    }
+
 .nav {
     display: table; 
     float: left;
@@ -85,6 +89,10 @@ body {
         position: sticky;
         top: 0;
         z-index: 99;
+    }
+    
+    .page-header{
+        border-bottom: 1px solid #808080;
     }
     
     .navbar-header {
