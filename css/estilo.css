@@ -3,13 +3,15 @@
 body {
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
     background-image: url('../img/bg_360.jpg');
-    /*height: 900px;*/
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 
+ section {
+        padding-top: 50px;
+    }
 
 .brand {
     display: none;
@@ -21,6 +23,8 @@ body {
 
 .page-header{
     border-bottom: 1px solid #808080;
+    margin-top: 0px;
+    padding-top: 0px;
     }
 
 .nav {
@@ -71,6 +75,7 @@ body {
         top: 0;
         z-index: 99;
     }
+
 .dropdown-menu  {
     font-size: 18px;
 }
@@ -91,6 +96,10 @@ body {
     background-size: cover;
 }
     
+    section {
+        padding-top: 60px;
+    }
+    
     .brand {
         display: inherit;
         margin: 0;
@@ -107,6 +116,8 @@ body {
     
     .page-header{
         border-bottom: 1px solid #808080;
+        margin-top: 0px;
+        padding-top: 0px;
     }
     
     .navbar-header {
@@ -135,7 +146,6 @@ body {
     }
     
     .box {
-        /*width:100%;*/
         margin-left: 0px;
         margin-right: 0px;
         margin-bottom: 20px;
@@ -152,10 +162,6 @@ body {
     
     .img-full {
         min-width: 100%;
-    }
-    
-    .linha {
-        padding: 20px;
     }
     
     .pijamas_item p,h4 {
@@ -208,6 +214,11 @@ body {
     
     .somos {
         text-align: center;
+    }
+    
+    .texte {
+        padding: 0px;
+        margin: 0px;
     }
     
 }
