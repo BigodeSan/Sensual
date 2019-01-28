@@ -1,24 +1,18 @@
 /*estilo css*/
 
-
-.menu {
-        position: sticky;
-        top: 0;
-        z-index: 99;
-    }
-
 html {
-    height: 100%;
+    /*height: 100%;*/
 }
 
 body {
+    
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
     background-image: url('../img/bg_360.jpg');
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: cover;
-    height: 100%;
+    background-attachment: fixed;
 }
 
  section {
@@ -71,6 +65,14 @@ body {
     .pijamas_item p,h4 {
         font-size: 20px;
         text-align: center;
+    }
+
+.menu {
+        -webkit-position: sticky;
+        -moz-position: sticky;
+        position: sticky;
+        top: 0;
+        z-index: 99;
     }
 
 .menu-fixo {
