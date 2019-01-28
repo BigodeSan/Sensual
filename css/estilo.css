@@ -6,7 +6,7 @@ html {
 
 body {
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
-    background-image: url('../img/bg.jpg');
+    background-image: url('../img/bg_360.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -91,15 +91,14 @@ body {
 
 @media screen and (min-width:768px) { 
 
-    /*body {
+    body {
     font-family: "Sansita","Times New Roman",Arial,Verdana,sans-serif;
     background-image: url('../img/bg.jpg');
-    /*height: 900px;*/
-    /*background-position: center;
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-}*/
+}
     
     section {
         padding-top: 60px;
