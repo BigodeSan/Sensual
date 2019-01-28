@@ -2,7 +2,7 @@
 
 html {
     height: 100vh;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
 }
 
 body {
@@ -95,8 +95,8 @@ body {
 footer {
     padding: 10px;
     padding-bottom: 10px;
-    margin-left: -10px;
-    margin-right: -10px;
+    /*margin-left: -10px;
+    margin-right: -10px;*/
     font-size: 16px;
     text-align: inherit;    
     }
@@ -214,8 +214,8 @@ footer {
     footer {
         padding: 10px;
         padding-bottom: 10px;
-        margin-left: -10px;
-        margin-right: -10px;
+        /*margin-left: -10px;
+        margin-right: -10px;*/
         font-size: 18px;
         text-align: center;
     }
