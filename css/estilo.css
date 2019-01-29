@@ -97,6 +97,13 @@ body {
     margin-bottom: 10px;
 }
 
+.pijamas_item {
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    }
+
 footer {
     padding: 0px;
     padding-bottom: 0px;
@@ -182,6 +189,13 @@ footer {
     
     .img-full {
         min-width: 100%;
+    }
+    
+    .pijamas_item {
+        padding-bottom: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 20px;
     }
     
     .pijamas_item p,h4 {
